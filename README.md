@@ -18,7 +18,6 @@ I am a front-end developer who loves bringing designs to life with clean HTML an
 
 ## Let’s Connect!
 
--	GitHub -- https://github.com/esuare12
--	LinkedIn -- https://www.linkedin.com/in/edwin-suarez94/
--	Portfolio – https://esuare12.github.io/portfolio/
+<a href="https://www.linkedin.com/in/edwin-suarez94/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://esuare12.github.io/portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 

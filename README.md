@@ -10,11 +10,11 @@ I am a front-end developer who loves bringing designs to life with clean HTML an
 ## Featured Projects
 
 -	<a href="https://github.com/esuare12/RiceBallStream.git">RiceBallStream</a>: A JavaScript-heavy class project featuring a carousel, form validation, and an interactive random number game.
-    *	HTML -- CSS – JavaScript  
+   	* HTML -- CSS – JavaScript  
 -	<a href="https://github.com/esuare12/BreadButterBakery.git">Bread + Butter Bakery</a> Pre-Order System: currently under work high-fidelity prototype for a viral bakery to manage demand through online pre-orders.
-    *	HTML – CSS
+      * HTML – CSS
 -	Vita Terra: group project for an eco-friendly, earth-conscious brand. I was responsible for the homepage design and developed through Shopify.
-  *	Shopify – HTML – CSS – Figma
+      * Shopify – HTML – CSS – Figma
 
 ## Let’s Connect!
 
